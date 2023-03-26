@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+census_income.egg-info/PKG-INFO
+census_income.egg-info/SOURCES.txt
+census_income.egg-info/dependency_links.txt
+census_income.egg-info/requires.txt
+census_income.egg-info/top_level.txt
